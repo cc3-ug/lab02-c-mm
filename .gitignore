@@ -1,3 +1,9 @@
+# Lab files
+bit_ops
+lfsr
+vector
+.autograder
+
 # Prerequisites
 *.d
 
